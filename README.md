@@ -122,5 +122,11 @@ https://sales-prediction-walmart.streamlit.app/
 The deployed application allows users to interact with the machine learning model and generate Walmart sales predictions through a web interface.
 
 
-## Author
-Machine Learning Project – Walmart Sales Prediction
+## 👤 Author  
+**Puseletso Motsoari**  
+
+📧 Email: motsoaripuseletso8@gmail.com  
+🔗 GitHub: https://github.com/Puseletso10  
+💼 LinkedIn: www.linkedin.com/in/puseletso-motsoari  
+
+---
